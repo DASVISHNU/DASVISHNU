@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Vishnukumar
-- 👀 I’m interested in Data analysis and ML
-- 🌱 I’m currently learning ML
-- 📫 How to reach me-Email:vishnudinesh128@gmail.com
+👋 Hi, I’m Vishnukumar  
+
+🎓 MCA Student  
+💻 Interested in Data Science, Machine Learning & Backend Development  
+🌱 Currently learning Machine Learning and building real-world projects  
+📫 Reach me at: vishnudinesh128@gmail.com  
 
 
 <!---
