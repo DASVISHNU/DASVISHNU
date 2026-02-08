@@ -2,7 +2,7 @@
 
 🎓 MCA Student  
 💻 Interested in Data Science, Machine Learning & Backend Development  
-🌱 Currently learning Machine Learning and building real-world projects  
+🌱 Currently learning backend and building real-world projects  
 📫 Reach me at: vishnudinesh128@gmail.com  
 
 
